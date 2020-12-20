@@ -76,7 +76,7 @@ const ALLOW_ALL_INTRUMENTS = true; // removes percussion instruments (turning th
 const BOT_SOLO_PLAY = true; // sets what play mode when the bot boots up on an owned room
 
 // Bot custom constants
-const PREFIX = "+";
+const PREFIX = "/";
 const PREFIX_LENGTH = PREFIX.length;
 const BOT_KEYWORD = "MIDI";
 const BOT_ACTIVATOR = BOT_KEYWORD.toLowerCase();
